@@ -11,7 +11,7 @@
 
 ### Conta de professor
 E-mail: `edurochacabral2010@gmai.com`
-Senha: `20,Senha`
+Senha: ``
 
 A conta de professor é criada automaticamente na primeira inicialização.
 
